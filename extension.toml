@@ -6,5 +6,6 @@ authors = ["Matthew Hickson"]
 description = "PLAIN programming language syntax support"
 
 [grammars.plain]
-repository = "file:///home/matthew/projects/plain/support/plain-zed"
-rev = "<commit-sha>"
+repository = "https://github.com/mwhickson/plain-zed"
+rev = "417d2b084e84d9ab910a0ce6d849fe55dc814dff"
+path = "tree-sitter-plain"
